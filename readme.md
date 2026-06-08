@@ -7,7 +7,7 @@ Sistema de baús configuráveis para servidores FiveM QBCore.
 
 
 Desenvolvido por \*\*ErickFita - QBCore Scripts\*\*.
-
+Versão: 1.0.0
 
 
 \---
